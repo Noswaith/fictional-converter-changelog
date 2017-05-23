@@ -2,6 +2,12 @@
 
 ### INDEV - VERSON 0 ###
 
+2017/05/23:
+
+0.5.1:
+      #Improved efficiency by switching from If statements to Case statements.
+      #Added rough prototyping for Huttese credits in the Star Wars section.
+
 2017/05/21:
 
 0.5:
