@@ -1,1 +1,30 @@
-###PLACEHOLDER###
+### INDEV - VERSON 0.7.1 ###
+
+2017/06/02:
+
+0.7.2 - Josh Lee, Aron Preece:
+     ! PLANNED:
+     #Fixed errors.
+     #Created new ones.
+     #Listened to more 1980s music.
+
+
+2017/05/15 - 2017/05/31:
+
+0.7.1 - Aron Preece:
+      #Added in toolbox to new functionality.
+      #Broke said functionality.
+      #Listened to 1980s music whilst manically typing at the keyboard.
+      #Added in changelog support.
+      #Fixed a bug in which Toolbox>Styles wasn't showing.
+      
+      ! Unresolved issues:
+      #cbxStyles refuses to get populated depending on what cbxShape's value is. Suggesting marriage counciling.
+      #frmNew crashes completely upon start up due to two variables causing problems. Suggesting asking Josh "Why am I incapable?" 
+      and waiting for advice.
+      
+        ^Dim CanvasWidth As Integer = picCanvas.Size.Width
+        ^Dim CanvasHeight As Integer = picCanvas.Size.Height
+        ^"Object reference not set to an instance of an object."
+        
+      
