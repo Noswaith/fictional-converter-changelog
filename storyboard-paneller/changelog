@@ -1,12 +1,26 @@
-### INDEV - VERSON 0.7.1 ###
+### INDEV - VERSON 0.7.2 ###
 
-2017/06/02:
+2017/07/04:
 
-0.7.2 - Josh Lee, Aron Preece:
-     ! PLANNED:
+0.8 - Josh Lee, Aron Preece:
+     !!PLANNED!!
+     #Fixed Margin drawing issue.
+     #Start work on the toolbox.
+     #/Maybe/ plan on the grid-alignment feature, doubtful.
+
+2017/06/27:
+
+0.7.2 - Aron Preece - "The Late Fix":
      #Fixed errors.
      #Created new ones.
-     #Listened to more 1980s music.
+     #Listened to early 2000s music.
+     
+     ! Bug Fixes:
+     #frmNew no longer crashes.
+     cbxTemplates now has a default value.
+     
+     ! Unresolved issues:
+     #Margin won't draw. ETA to fix, 1 week.
 
 
 2017/05/15 - 2017/05/31:
