@@ -17,7 +17,7 @@
      
      ! Bug Fixes:
      #frmNew no longer crashes.
-     cbxTemplates now has a default value.
+     #cbxTemplates now has a default value.
      
      ! Unresolved issues:
      #Margin won't draw. ETA to fix, 1 week.
