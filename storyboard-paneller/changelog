@@ -1,12 +1,18 @@
-### INDEV - VERSON 0.7.2 ###
+### INDEV - VERSON 0.8 ###
 
-2017/07/04:
+2017/07/01:
 
-0.8 - Josh Lee, Aron Preece:
-     !!PLANNED!!
-     #Fixed Margin drawing issue.
-     #Start work on the toolbox.
-     #/Maybe/ plan on the grid-alignment feature, doubtful.
+0.8 - Aron Preece:
+     #Started work on the toolbox.
+          ^Custom drawing now in progress.
+     
+     ! Bug fixes:
+     #Nothing to report. . .
+     
+     ! Unresolved issues:
+     #Margin drawing issue.
+     
+     
 
 2017/06/27:
 
